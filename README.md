@@ -15,6 +15,6 @@
 * Wordle Word Generator Using Image Recognition [Github](https://github.com/Awie100/SquabbleHax) [Demo](https://awie100.github.io/SquabbleHax/)
 
 ## Minecraft Mods (Paper)
-* Web Socket Sever and Locational Voice Chat Implementation [Github](https://github.com/Awie100/WebsocketServer)
+* Web Socket Server and Locational Voice Chat Implementation [Github](https://github.com/Awie100/WebsocketServer)
 * In-Game Calculator [Github](https://github.com/Awie100/StackCalc)
 * Scavenger Hunts [Github](https://github.com/Awie100/scavengerHuntPlugin)
