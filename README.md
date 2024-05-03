@@ -1,4 +1,4 @@
-# Here are my projects so far: (WIP)
+# Hello! Here are my projects so far: (WIP)
 
 ## Unity
 * Unity 3d Testing [Github](https://github.com/Awie100/un3dtest)
